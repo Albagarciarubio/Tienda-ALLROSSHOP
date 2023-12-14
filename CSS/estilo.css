@@ -1,0 +1,112 @@
+
+body {
+      background-color: #ffffff;  
+}
+
+header{
+    background-color: #7174ad;
+    color: #9c1717;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+}
+        
+#titulo{
+    background-color: #020536;
+    color: #197569;
+    margin: 15px 0px;
+    font-size: 3em;
+    letter-spacing: .3rem;
+    text-shadow: 5px 1px 5px rgb(52, 84, 70); 
+}
+
+.Seccion{
+    background-color: #061770;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 5px; 
+}
+
+#menuPrincipal {
+    background-color: #666780;
+    padding: 15px;
+}
+            
+#menuPrincipal ul{
+    list-style: none;
+    padding: 0px;
+}
+
+#menuPrincipal li{
+    display: inline;
+    margin: 0px 15px;
+    border: solid;
+    border-color: rgb(223, 125, 125) 16;
+    border-radius: 4px;
+    padding:15px ;
+    font-weight: bold;
+}
+
+#menuPrincipal li:hover{
+    background-color: rgb(51, 21, 21);
+    border: solid;
+    border-color: rgb(189, 77, 77);
+    border-radius: 4px;
+    padding:15px ;
+}
+
+.enlaceMenuPrincipal{
+    text-decoration: none;
+    color:#22cd8b;
+    padding: 10px 20px;  
+}
+    
+#Formulario{
+    text-align: justify;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    background-image: url("../");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#Texto{ 
+    width: 100%;
+    margin-bottom: 10px
+}
+
+footer{
+    background-color: #a9cfcb;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.enlaces ul{
+    list-style: none;
+    padding: 0px;
+}
+    
+.enlaces li{
+    display: inline-block;
+    margin-right:10px;
+    color: #960e0e;
+    font-weight: bold;
+}
+    
+.enlaces a {
+    color: rgb(145, 81, 81);
+    text-decoration: none;
+}
+
+.enlaces a:hover {
+    color: #abc9c5;
+}
+
+    
+        
