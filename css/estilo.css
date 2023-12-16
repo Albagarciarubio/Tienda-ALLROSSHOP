@@ -21,7 +21,7 @@ header{
 }
 
 .Seccion{
-    background-color: #F5B7B1 ;
+    background-color:#F04890 ;
     color: #fff;
     padding: 10px;
     font-size: 1.5em;
@@ -29,7 +29,7 @@ header{
 }
 
 #menuPrincipal {
-    background-color: #666780;
+    background-color:#EB807B ;
     padding: 15px;
 }
             
@@ -58,7 +58,7 @@ header{
 
 .enlaceMenuPrincipal{
     text-decoration: none;
-    color:#22cd8b;
+    color:#9AEB75;
     padding: 10px 20px;  
 }
     
@@ -78,7 +78,7 @@ header{
 }
 
 footer{
-    background-color: #a9cfcb;
+    background-color:#C2AFEB ;
     color: #ffffff;
     text-align: center;
     padding-top: 5px;
@@ -95,7 +95,7 @@ footer{
 .enlaces li{
     display: inline-block;
     margin-right:10px;
-    color: #960e0e;
+    color:#D4EA95 ;
     font-weight: bold;
 }
     
