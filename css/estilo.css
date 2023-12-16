@@ -4,7 +4,7 @@ body {
 }
 
 header{
-    background-color: 33BEFF;
+    background-color:#978D8D;
     color: #000000 ;
     text-align: center;
     padding: 20px;
@@ -13,7 +13,7 @@ header{
         
 #titulo{
     background-color: #FFFFFF;
-    color: #197569;
+    color:  #FFFFFF;
     margin: 15px 0px;
     font-size: 3em;
     letter-spacing: .3rem;
