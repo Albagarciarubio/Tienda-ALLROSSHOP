@@ -5,14 +5,14 @@ body {
 
 header{
     background-color: 33BEFF;
-    color: #9c1717;
+    color: #000000 ;
     text-align: center;
     padding: 20px;
     border-radius: 8px;
 }
         
 #titulo{
-    background-color: #020536;
+    background-color: #000000 ;
     color: #197569;
     margin: 15px 0px;
     font-size: 3em;
@@ -21,7 +21,7 @@ header{
 }
 
 .Seccion{
-    background-color: #061770;
+    background-color: #F5B7B1 ;
     color: #fff;
     padding: 10px;
     font-size: 1.5em;
