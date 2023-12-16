@@ -12,7 +12,7 @@ header{
 }
         
 #titulo{
-    background-color: #FFFFFF;
+    background-color:#F0488D ;
     color:  #FFFFFF;
     margin: 15px 0px;
     font-size: 3em;
@@ -21,15 +21,15 @@ header{
 }
 
 .Seccion{
-    background-color:#F04890 ;
-    color: #fff;
+    background-color:#B7BAEB ;
+    color: #B7BAEB;
     padding: 10px;
     font-size: 1.5em;
     border-radius: 5px; 
 }
 
 #menuPrincipal {
-    background-color:#EB807B ;
+    background-color:#EBD5B7 ;
     padding: 15px;
 }
             
